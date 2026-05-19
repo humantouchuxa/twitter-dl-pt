@@ -1,0 +1,5 @@
+flask
+flask-cors
+gunicorn
+yt-dlp>=2024.12.13
+requests
